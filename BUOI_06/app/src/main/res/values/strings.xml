@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Buoi_06</string>
+    <string name="affirmation1">I assert my self-worth.</string>
+    <string name="affirmation2">I am full of energy and vitality.</string>
+    <string name="affirmation3">I am worthy of love and respect.</string>
+    <string name="affirmation4">I am capable of doing great things.</string>
+    <string name="affirmation5">I choose to be happy today.</string>
+    <string name="affirmation6">My mind is full of brilliant ideas.</string>
+    <string name="affirmation7">I am growing and learning every day.</string>
+    <string name="affirmation8">I radiate positivity.</string>
+    <string name="affirmation9">I am grateful for everything I have.</string>
+    <string name="affirmation10">I am at peace with myself.</string>
+</resources>
